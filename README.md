@@ -22,4 +22,5 @@
 ## Link to Game
 -   https://lucy839.github.io/Word-Guess-Game/
 
-
+## Demo
+- ![Alt text](assets/images/demo.png?raw=true  "demo") 
